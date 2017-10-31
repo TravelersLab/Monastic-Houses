@@ -8,4 +8,5 @@ within `0-scraper.R`, located [here](code/0-scraper.R)
 Any future work will be done in the code directory; I suspect there'll be
 some more work done soon.
 
-Also, see the [data dictionary](data/datadict.md)
+Also, see the [Data Dictionary](data/datadict.md) for an explanation of the
+columns.
