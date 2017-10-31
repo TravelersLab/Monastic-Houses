@@ -11,5 +11,6 @@
 `Region`     : Region that the Monastery is located in; derived from wiki page
 
 
-All of this data was produced by scraping [this site](https://en.wikipedia.org/w/index.php?title=List_of_monastic_houses_in_England&action=info)
+All of this data was produced by scraping [this site](https://en.wikipedia.org/w/index.php?title=List_of_monastic_houses_in_England&action=info),
+and the sublinks located therein, 
 @ 8:08PM EST, 30th October, 2017.
